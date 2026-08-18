@@ -2,11 +2,11 @@ Day 01 — Machine Learning Foundation
 
 60 Days of Data Science & Machine Learning | Day 01
 
-📌 Overview
+## Overview
 
 Foundational introduction to Machine Learning — what it is, how it relates to AI, Deep Learning, and Data Science, how it differs from traditional programming, and its three major types.
 
-🎯 Learning Objectives
+## Learning Objectives
 Define Machine Learning
 Explain AI vs ML vs Data Science vs Deep Learning
 Contrast traditional programming with ML
